@@ -393,8 +393,8 @@ EXEC sys.sp_addextendedproperty @name=N'MS_DiagramPane2', @value=N'= 280
    End
    Begin CriteriaPane = 
       Begin ColumnWidths = 11
-         Column = 1440
-         Alias = 900
+         Column = 1550
+         Alias = 1000
          Table = 1170
          Output = 720
          Append = 1400
