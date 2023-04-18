@@ -277,10 +277,6 @@ Begin DesignProperties =
          NumPanes = 2
          Configuration = "(H (1[66] 2) )"
       End
-      Begin PaneConfiguration = 11
-         NumPanes = 2
-         Configuration = "(H (4 [60] 2))"
-      End
       Begin PaneConfiguration = 12
          NumPanes = 1
          Configuration = "(H (1) )"
